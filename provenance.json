@@ -1,0 +1,18 @@
+[
+  {
+    "name": "helm",
+    "version": "v4.3.2",
+    "filename": "helm-v4.3.2-darwin-arm64",
+    "sha256": "090e6b29ce89a1eb5cbb60925d66b9c8fa43dd2f7c14bcf64f6bdc9331295e5a",
+    "size": 63382754,
+    "source": "https://get.helm.sh/helm-v4.3.2-darwin-arm64.tar.gz"
+  },
+  {
+    "name": "kubectl",
+    "version": "v1.37.2",
+    "filename": "kubectl-v1.37.2-darwin-arm64",
+    "sha256": "55701af0d51815ee335f240e48acf0959c3c23017ed3fa816e880c4a92bae581",
+    "size": 59609250,
+    "source": "https://dl.k8s.io/release/v1.37.2/bin/darwin/arm64/kubectl"
+  }
+]
